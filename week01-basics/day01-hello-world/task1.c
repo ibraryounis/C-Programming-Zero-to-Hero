@@ -2,5 +2,6 @@
 int main()
 {
     printf("C-PROGRAMMING-ZERO-TO-HERO");
+    printf("C-PROGRAMMING-ZERO-TO-HERO");
     return 0;
 }
